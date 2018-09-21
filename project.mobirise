@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LWSE",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -55,7 +55,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#msg-box8-4\">VISION STATEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-f\">What we Do</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\">Kibera Bakery Project</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-j\">How to Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#msg-box8-4\">VISION STATEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-f\">What we Do</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\">Our Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-j\">How to Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -135,7 +135,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p9190414-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p2080308-1-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -183,7 +183,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2080308-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p2080304-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -229,6 +229,9 @@
             },
             ".mbr-section-title": {
               "font-size": "60px"
+            },
+            ".lead P": {
+              "font-size": "21px"
             }
           },
           "_params": {
@@ -238,7 +241,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p9301392-1-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p9301392-2-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -250,8 +253,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.2"
           },
-          "title": "Our First Business",
-          "text": "<p><b>The Living Waters Bakery, Kibera</b></p>",
+          "title": "Our First Businesses",
+          "text": "<p><b>Living Waters Bakery, Kibera <br>Living Watera Dairy, Kibera</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -266,7 +269,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p>Our initial plan is to start a bakery, a bakery is a profitable business, only flour, yeast and water is needed to produce a premium product, and it is a business that can be easily up-scaled. This bakery will be located in the Makina market, close to Kibera in an area with high footfall. Kibera is the largest slum in Africa, it is one of many around Nairobi and it will be an ideal location to train and develop staff. We will also sell our produce through agents and set up sales points in other local market areas.\r</p><p><br></p><p> </p><p>The premises will be rented and the rent is very reasonable, but we need funds to buy the baking equipment, ovens, mixers, pans, etc.\r</p><p><br></p><p><br></p><p><br></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem;\">This business model has the advantage that it can be expanded by by replicating the initial business in another part of town, but with the advantage that skilled staff will have been trained up ready to run the new shop. </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">There is a large middle-class in Nairobi with the income to buy quality breads and cakes. Once we have trained up our staff we will start other local bakeries in middle and upper class neighbourhoods so that money from these areas can be brought into the slum community.</span></p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">This business model has the advantage that it can be expanded by by replicating the initial business in another part of town, but with the advantage that skilled staff will have been trained up ready to run the new shop. </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">We also plan to set up a Milk ATM. This is an outlet that has a milk dispenser where milk can be purchased in very small quantities at a lower price than local supermarkets. This will provide a useful service to local people as there are no refrigerators on the slum. The premises will also be a sales point for our bakery products.</span></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -292,7 +295,7 @@
             "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2070038-1-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p2070038-2-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -305,7 +308,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "How You can help",
-          "text": "<p><b>We need to raise funds (about £10,000) to finance our bakery project please click on the link to donate</b></p><p><b>If you would like to get involved in the project or would like to donate or loan a larger amount please contact us via the link at the foot of the page</b></p>",
+          "text": "<p><b>We need to raise funds (about £10,000) to finance our bakery and milk ATM projects please click on the link to donate</b></p><p><b>If you would like to get involved in the project or would like to donate or loan a larger amount please contact us via the link at the foot of the page</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Link to our Giving Page</a>",
           "_tags": [
             "Theme"
@@ -405,7 +408,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#msg-box8-4\">VISION STATEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-f\">What we Do</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\">Kibera Bakery Project</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-j\">How to Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#msg-box8-4\">VISION STATEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-f\">What we Do</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\">Our Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-j\">How to Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -494,9 +497,9 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "5",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2070042-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pa021479-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -551,7 +554,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2080303-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p2080303-1-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -606,7 +609,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2080302-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p2080302-1-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -633,7 +636,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We have started a charity in the UK – Living Waters Social Enterprises - to be a fund raising vehicle to apply for grants, loans and gifts. This charity will set up a non-profit business in Kenya to be the local operating company and all surpluses will be directed to social enterprise activities. The UK charity will also need to cover expense for the UK staff.</p><p><br></p><p>\n</p><p>We have trustees, a minimum of three. These trustees will take an active interest in and support the charity, for example to help in fundraising and networking. If you would be interested in becoming a trustee, please contact us.</p><p><br></p><p>We will need to recruit the initial Kenyan staff in order to start the local subsidiary. People who have already been faithfully working with us on our MED pilot will be the initial local company directors; they are already successful business people.\n</p><p><br></p>",
+          "text": "<p>We have started a charity in the UK – Living Waters Social Enterprises - to be a fund raising vehicle to apply for grants, loans and gifts. This charity will set up not-for-profit businesses in Kenya to be the local operating companies and all surpluses will be directed to social enterprise activities. The UK charity will also need to cover expense for the UK staff.</p><p><br></p><p>\n</p><p>We have trustees, a minimum of three. These trustees will take an active interest in and support the charity, for example to help in fundraising and networking. If you would be interested in becoming a trustee, please contact us.</p><p><br></p><p>We will need to recruit the initial Kenyan staff in order to start the local subsidiary. People who have already been faithfully working with us on our MED pilot will be the initial local company directors; they are already successful business people.\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -687,7 +690,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p>Our initial plan is to start a bakery: a bakery is a profitable business, only flour, yeast and water is needed to produce a premium product, and it is a business that can be easily up-scaled. The initial bakery will be located close to Kibera in an area with high footfall. It will be an ideal location to train and develop staff. This business will be expanded by starting other local bakeries in middle and upper class neighbourhoods with staff trained in the Kibera bakery.&nbsp;</p>",
-          "text2": "There is a large middle-class in Nairobi with the income to buy quality breads and cakes. Other small businesses, such as tailoring, will follow where suitable opportunities are found. These businesses will be able to provide specialist training to their workforces for technical skills plus inspiration to support the community.",
+          "text2": "There is a large middle-class in Nairobi with the income to buy quality breads and cakes. Other small businesses, such as milk ATMs and tailoring, will follow where suitable opportunities are found. These businesses will be able to provide specialist training to their workforces for technical skills, inspiration to support the community and good products for people living in the area.",
           "text3": "<p>When funds allow, it is planned to buy land near to the slum. This is seen as a crucial long term investment as the value of land is always rising. This land will be used for building an adult training facility and school. The purchase of land will provide security and ensure the availability of these facilities for decades to come. The adult training facility will provide technical skills training and academic teaching to support those who did not have childhood schooling.</p>",
           "_tags": [
             "Theme"
@@ -714,7 +717,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pa021489-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pa021489-2-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -748,6 +751,41 @@
           ],
           "_name": "content6",
           "_anchor": "content6-d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/p9140011-1600x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Our Logo",
+          "caption": "<p><b>Our logo is a simple representation of a vision from the prophet Ezekiel (Chapter 47) of a river that flows from the temple. The river brings healing and cleansing to dead and poluted areas allowing fish to breed and trees grow along its banks. The fish provide jobs for fishermen to catch the fish and food for the people: the trees provide fruit to eat and their leaves are used for healing. This ties in with our vision to provide jobs and training to enhance peoples lives and to try to clear up the polution in these slums.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-x"
         },
         {
           "_params": {
@@ -810,7 +848,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#msg-box8-4\">VISION STATEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-f\">What we Do</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\">Kibera Bakery Project</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-j\">How to Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#msg-box8-4\">VISION STATEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-f\">What we Do</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\">Our Projects</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-j\">How to Help</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
