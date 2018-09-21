@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LWSE",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -758,7 +758,7 @@
               "color": "#fff"
             },
             "P": {
-              "font-size": "19px"
+              "font-size": "21px"
             }
           },
           "_params": {
@@ -767,7 +767,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p9140011-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p9140011-1-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -777,7 +777,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": 0.5
           },
           "title": "Our Logo",
           "caption": "<p><b>Our logo is a simple representation of a vision from the prophet Ezekiel (Chapter 47) of a river that flows from the temple. The river brings healing and cleansing to dead and poluted areas allowing fish to breed and trees grow along its banks. The fish provide jobs for fishermen to catch the fish and food for the people: the trees provide fruit to eat and their leaves are used for healing. This ties in with our vision to provide jobs and training to enhance peoples lives and to try to clear up the polution in these slums.</b></p>",
@@ -785,7 +785,7 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-x"
+          "_anchor": "content5-y"
         },
         {
           "_params": {

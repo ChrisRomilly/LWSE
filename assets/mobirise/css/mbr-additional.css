@@ -627,12 +627,12 @@ h6,
 #msg-box8-b .mbr-section-title {
   font-size: 60px;
 }
-#content5-x .mbr-section-title,
-#content5-x p {
+#content5-y .mbr-section-title,
+#content5-y p {
   color: #fff;
 }
-#content5-x P {
-  font-size: 19px;
+#content5-y P {
+  font-size: 21px;
 }
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
