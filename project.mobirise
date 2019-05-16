@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LWSE",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 36,
+    "uniqCompNum": 38,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -180,8 +180,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/p2080304-1600x1200.jpg",
             "parallax": true,
@@ -196,7 +196,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "What we do",
-          "text": "<p><b>Building Independence - Breaking the dependency culture</b></p>",
+          "text": "<p><b>Building Independence - Breaking the dependency culture</b></p><p><b>So many people here have literally nothing and are living day by day. We seek to give them a means to help themselves rather than being dependent on handouts.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page1.html#msg-box8-4\" data-toolbar=\"-mbrBtnMove\">&nbsp;See our Vision Statement</a>",
           "_tags": [
             "Theme"
@@ -210,8 +210,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem;\">Anyone travelling to these areas will be struck by the cheerfullness and positive spirit of so many people here who have literally nothing and are living day by day. However, a dependancy culture has grown up due to aid from first world countries. We seek to give these people a means to help themselves rather than being dependent on handouts.</span><br></p><p><br></p><p>We want to harness the power of business to bring these people out of poverty. Not a capitalist monster, but a modern social enterprise that cares and educates its staff and uses its profits to support the local economy, paying for teachers, training adults and looking after orphans.</p>",
-          "text2": "<p><span style=\"font-size: 1.07rem;\">We are setting up a not-for-profit company in Nairobi to be the vehicle to make this happen. This company will have local Kenyan directors as well as UK Directors from LWSE to oversee the business and ensure that it grows swiftly, looks after its staff well and provides support to the community.</span><br></p><p><br></p><p>LWSE needs to raise finance to set up this business, but once it is operating successfully then it will be local people generating money to help local causes.&nbsp;<span style=\"font-size: 1.07rem;\">The distinction over traditional charity giving is that money invested by LWSE will not be simply spent with a limited short term effect, but will be invested in a business that will provide returns many times the size of the original investment over many years: truly, the gift that goes on giving.</span></p>",
+          "text1": "<p><span style=\"font-size: 1.07rem;\">We are setting up two projects to harness the power of business to bring these people out of poverty. Firstly, a Micro Enterprise Development scheme, where we provide small loans to allow people to set up small businesses and so allow them to support themselves. Money invested in a micro enterprise scheme is very efficiently used, as when a loan is repaid then it can be offered to another business.</span><br></p><p><br></p><p>Secondly, a larger business, directly overseen by our Trustees: a modern social enterprise that cares and educates its staff and uses its profits to support the local economy, paying for teachers, training adults and looking after orphans.</p><p><br></p><p>LWSE needs to raise finance to set up the business and support the micro enterprise scheme. Once the business is operating successfully then it will be local people generating money to help local causes.</p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">We will have a not-for-profit company in Nairobi to be the vehicle to manage the business and will work with a Community Organisation in Nairobi for the micro enterprise. The company will have local Kenyan directors as well as UK Directors from LWSE to oversee the business and ensure that it grows swiftly, looks after its staff well and provides support to the community.</span><br></p><p><br></p><p>&nbsp;<span style=\"font-size: 1.07rem;\">The distinction over traditional charity giving is that money invested by LWSE will not be simply spent with a limited short term effect, but will be invested in people and a business that will provide returns many times the size of the original investment over many years: truly, the gift that goes on giving.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -239,7 +239,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/p9301392-2-1600x1200.jpg",
             "parallax": true,
@@ -253,8 +253,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.2"
           },
-          "title": "Our First Business",
-          "text": "<p><b>Living Waters Bakery, Kibera <br></b></p>",
+          "title": "Our Business",
+          "text": "<p><b>Living Waters Bakery, Kibera </b></p><p><b>A social enterprise business where local people living in the slums of Nairobi will generate finance for their neighbourhood</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -268,8 +268,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Our initial plan is to start a bakery, a bakery is a profitable business, only flour, yeast and water is needed to produce a premium product, and it is a business that can be easily up-scaled and offers training opportunities for employees.. This bakery will be located close to Kibera in an area with high footfall: Kibera is the largest slum in Africa, it is one of many around Nairobi and it will be an ideal location to train and develop staff. We will also sell our produce through agents and set up sales points in other local market areas.</p><p><br></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem;\">The premises will be rented and the rent is very reasonable, but we need funds to buy the baking equipment, ovens, mixers, pans, etc.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">This business model has the advantage that it can be expanded by replicating the initial business in another part of town, but with the advantage that skilled staff will have been trained up ready to run the new shop. </span></p><p><br></p>",
+          "text1": "<p>The plan for our first business is to start a bakery: a bakery is a profitable business, only flour, yeast and water is needed to produce a premium product, and it is a business that can be easily up-scaled and offers training opportunities for employees.. This bakery will be located close to Kibera in an area with high footfall: Kibera is the largest slum in Africa, it is one of many around Nairobi and it will be an ideal location to train and develop staff. We will also sell our produce through agents and set up sales points in other local market areas.</p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">The premises will be rented and the rent is very reasonable, but we need funds to buy the baking equipment, ovens, mixers, pans, etc. and to support the business as it starts to trade.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">This business model has the advantage that it can be expanded by replicating the initial business in another part of town, but with the advantage that skilled staff will have been trained up ready to run the new shop. </span></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -292,8 +292,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": true,
-            "paddingTop": "3",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/p2070038-2-1600x1200.jpg",
             "parallax": true,
@@ -308,8 +308,8 @@
             "overlayOpacity": "0.2"
           },
           "title": "How You can help",
-          "text": "<p><b>We need to raise funds (about £15,000) to finance our bakery project please click on the link to donate</b></p><p><b>If you would like to get involved in the project or would like to donate or loan a larger amount please contact us via the link at the foot of the page</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Link to our Giving Page</a>",
+          "text": "<p><b>We need to raise about £15,000 to finance our bakery project and £1,000 to start our Micro Enterprise project</b></p><p><b>Please click on the links below to donate</b></p><p><b>If you would like to get involved in the project please contact us via the link at the foot of the page</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Link to our Giving Page</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Link to our Giving Page</a>",
           "_tags": [
             "Theme"
           ],
@@ -376,7 +376,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<strong><a href=\"mailto:livingwatersse@gmail.com\">Contacts</a></strong><br><a href=\"mailto:livingwatersse@gmail.com\">\nEmail: livingwatersse@gmail.com</a><br><a href=\"tel:+447425140424\">\nPhone: +44 7425 140424</a><br>",
+          "text2": "<strong><a href=\"mailto:livingwatersse@gmail.com\">Contacts</a></strong><br><a href=\"mailto:livingwatersse@gmail.com\">\nEmail: livingwatersse@gmail.com</a><br><a href=\"tel:+447425140424\">\nPhone: +44 7425 140424</a><br><a href=\"page2.html#content1-11\">Privacy Statement</a><a href=\"tel:+447425140424\"><br></a><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -636,7 +636,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We have started a charity in the UK – Living Waters Social Enterprises - to be a fund raising vehicle to apply for grants, loans and gifts. This charity will set up not-for-profit businesses in Kenya to be the local operating companies and all surpluses will be directed to social enterprise activities. The UK charity will also need to cover expenses for the UK staff.</p><p><br></p><p>\n</p><p>We have trustees, a minimum of three. These trustees will take an active interest in and support the charity, for example to help in fundraising and networking. If you would be interested in becoming a trustee, please contact us.</p><p><br></p><p>We will need to recruit the initial Kenyan staff in order to start the local subsidiary. People who have already been faithfully working with the Trustees on other projects will guide us and help us to recruit the initial local staff.</p><p><br></p>",
+          "text": "<p>We have started a charity in the UK – Living Waters Social Enterprises - to be a fund raising vehicle to apply for grants, loans and gifts. This charity will set up a not-for-profit business in Kenya to be the local operating company and all surpluses will be directed to social enterprise activities. We will also support local initiatives such as Micro Enterprise schemes and provide training. The UK charity will also need to cover expenses for the UK staff.</p><p><br></p><p>\n</p><p>We have trustees, a minimum of three. These trustees will take an active interest in and support the charity, for example to help in fundraising and networking. If you would be interested in becoming a trustee, please contact us.</p><p><br></p><p>We will need to recruit the initial Kenyan staff in order to start the local subsidiary. People who have already been faithfully working with the Trustees on other projects will guide us and help us to recruit the initial local staff.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -781,7 +781,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "Our Logo",
-          "text": "<p><b>Our logo is a simple representation of a vision from the prophet Ezekiel (Chapter 47) of a river that flows from the temple. The river brings healing and cleansing to dead and poluted areas allowing fish to breed and trees grow along its banks. The fish provide jobs for fishermen to catch the fish and food for the people: the trees provide fruit to eat and their leaves are used for healing. This ties in with our vision to provide jobs and training to enhance peoples lives and to try to clear up the polution in these slums.</b></p>",
+          "text": "<p><b>Our logo is a simple representation of a vision from the prophet Ezekiel (Chapter 47) of a river that flows from the temple. The river brings healing and cleansing to dead and poluted areas allowing fish to breed and trees grow along its banks. The fish provide jobs for fishermen to catch the fish and food for the people: the trees provide fruit to eat and their leaves are used for healing. This ties in with our vision to provide jobs and training to enhance peoples lives and to start to clear up the polution in these slums.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -818,7 +818,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<strong><a href=\"mailto:livingwatersse@gmail.com\">Contacts</a></strong><br><a href=\"mailto:livingwatersse@gmail.com\">\nEmail: livingwatersse@gmail.com</a><br><a href=\"tel:+447425140424\">\nPhone: +44 7425 140424</a><br>",
+          "text2": "<strong><a href=\"mailto:livingwatersse@gmail.com\">Contacts</a></strong><br><a href=\"mailto:livingwatersse@gmail.com\">\nEmail: livingwatersse@gmail.com</a><br><a href=\"tel:+447425140424\">\nPhone: +44 7425 140424</a><br><a href=\"page2.html#content1-11\">Privacy Statement</a><a href=\"tel:+447425140424\"><br></a><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -835,6 +835,19 @@
         "order": 2
       },
       "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b style=\"font-size: 1.07rem;\">Website Privacy Statement</b><br></p><p><br></p><p>This is the privacy notice of Living Waters Social Enterprises. In this document, \"we\", \"our\", or \"us\" refer to Living Waters Social Enterprises\n</p><p><span style=\"font-size: 1.07rem;\">We are a charity, registration number 1182042 registered in England</span><br></p><p>Our registered office is at 17 Leigh Rd, Southampton SO17 1EF\n</p><p><br></p><p><b>Introduction\n</b></p><p>This privacy notice aims to inform you about how we collect and process any information that we collect from you, or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. In the context of the law and this notice, “process” means collect, store, transfer, use or otherwise act on information. It tells you about your privacy rights and how the law protects you.\n</p><p>We are committed to protecting your privacy and the confidentiality of your personal information. Our policy is not just an exercise in complying with the law, but a continuation of our respect for you and your personal information.</p><p><br></p><p>\n</p><p>We undertake to preserve the confidentiality of all information you provide to us, and hope that you reciprocate.\n</p><p>Our policy complies with the Data Protection Act 2018 (Act) accordingly incorporating the EU General Data Protection Regulation (GDPR).\n</p><p><br></p><p>The law requires us to tell you about your rights and our obligations to you in regards to the processing and control of your personal data. We do this now, by requesting that you read the information provided at http://www.knowyourprivacyrights.org\n</p><p>Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our website.\n</p><p><br></p><p><b>Data we process\n</b></p><p>We may collect, use, store and transfer different kinds of personal data about you. We have collated these into groups as follows:\n</p><p>Your identity includes information such as first name, last name, title, date of birth, and other identifiers that you may have provided at some time.\n</p><p>Your contact information includes information such as postal address, email address, telephone numbers and any other information you have given to us for the purpose of communication or meeting.\n</p><p>Technical data includes your internet protocol (IP) address, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.\n</p><p>We may aggregate anonymous data such as statistical or demographic data for any purpose. Anonymous data is data that does not identify you as an individual. Aggregated data may be derived from your personal data but is not considered personal information in law because it does not reveal your identity.\n</p><p>For example, we may aggregate profile data to assess interest in a product or service.\n</p><p>However, if we combine or connect aggregated data with your personal information so that it can identify you in any way, we treat the combined data as personal information and it will be used in accordance with this privacy notice.\n</p><p><br></p><p><b>Special personal information\n</b></p><p>Special personal information is data about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. It also includes information about criminal convictions and offences.\n</p><p>We do not collect any special personal information about you.\n</p><p><br></p><p><b>If you do not provide personal information we need\n</b></p><p>Where we need to collect personal data by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform that contract. In that case, we may have to stop providing a service to you. If so, we will notify you of this at the time.\n</p><p>The bases on which we process information about you\n</p><p>The law requires us to determine under which of six defined bases we process different categories of your personal information, and to notify you of the basis for each category.\n</p><p>If a basis on which we process your personal information is no longer relevant then we shall immediately stop processing your data.\n</p><p>If the basis changes then if required by law we shall notify you of the change and of any new basis under which we have determined that we can continue to process your information.\n</p><p><br></p><p><b>Information we process with your consent\n</b></p><p>Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about our organisation you provide your consent to us to process information that may be personal information.\n</p><p>Wherever possible, we aim to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies.\n</p><p>If you have given us explicit permission to do so, we may from time to time pass your name and contact information to selected associates whom we consider may provide services or products you would find useful.\n</p><p>We continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.\n</p><p>You may withdraw your consent at any time by instructing us at livingingwatersse@gmail.com. However, if you do so, you may not be able to use our website or our services further.\n</p><p><br></p><p><b>Information we process for the purposes of legitimate interests\n</b></p><p>We may process information on the basis there is a legitimate interest, either to you or to us, of doing so.\n</p><p>Where we process your information on this basis, we do after having given careful consideration to:\n</p><p>•\twhether the same objective could be achieved through other means\n</p><p>•\twhether processing (or not processing) might cause you harm\n</p><p>•\twhether you would expect us to process your data, and whether you would, in the round, consider it reasonable to do so\n</p><p><br></p><p>For example, we may process your data on this basis for the purposes of:\n</p><p>•\trecord-keeping for the proper and necessary administration of our organisation\n</p><p>•\tresponding to unsolicited communication from you to which we believe you would expect a response\n</p><p>•\tprotecting and asserting the legal rights of any party\n</p><p>•\tinsuring against or obtaining professional advice that is required to manage organisational risk\n</p><p>•\tprotecting your interests where we believe we have a duty to do so\n</p><p><br></p><p><b>Information we process because we have a legal obligation\n</b></p><p>Sometimes, we must process your information in order to comply with a statutory obligation.\n</p><p>For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.\n</p><p>This may include your personal information.\n</p><p><br></p><p><b style=\"font-size: 1.07rem;\"><span style=\"font-size: 1.07rem;\">Complaints regarding content on our website</span></b><br></p><p>If you complain about any of the content on our website, we shall investigate your complaint.\n</p><p>If we feel it is justified or if we believe the law requires us to do so, we shall remove the content while we investigate.\n</p><p>Free speech is a fundamental right, so we have to make a judgment as to whose right will be obstructed: yours, or that of the person who posted the content that offends you.\n</p><p>If we think your complaint is vexatious or without any basis, we shall not correspond with you about it.</p><p>\n</p><p><br></p><p><b>Communicating with us\n</b></p><p>When you contact us, whether by telephone, through our website or by e-mail, we collect the data you have given to us in order to reply with the information you need.\n</p><p>We record your request and our reply in order to increase the efficiency of our organisation.\n</p><p>We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you to provide a high quality service.\n</p><p><br></p><p><b>Complaining\n</b></p><p>When we receive a complaint, we record all the information you have given to us.\n</p><p>We use that information to resolve your complaint.\n</p><p>If your complaint reasonably requires us to contact some other person, we may decide to give to that other person some of the information contained in your complaint. We do this as infrequently as possible, but it is a matter for our sole discretion as to whether we do give information, and if we do, what that information is.\n</p><p>We may also compile statistics showing information obtained from this source to assess the level of service we provide, but not in a way that could identify you or any other person.\n</p><p><br></p><p><b style=\"font-size: 1.07rem;\">Personal identifiers from your browsing activity&nbsp;</b><br></p><p>Requests by your web browser to our servers for web pages and other content on our website are recorded.\n</p><p>We record information such as your geographical location, your Internet service provider and your IP address. We also record information about the software you are using to browse our website, such as the type of computer or device and the screen resolution.\n</p><p>We use this information in aggregate to assess the popularity of the webpages on our website and how we perform in providing content to you.\n</p><p>If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.\t\t\n</p><p><br></p><p><b>Cookies</b></p><p><br></p><p>Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved.\n</p><p>Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely.\n</p><p>Your web browser should allow you to delete any you choose. It also should allow you to prevent or limit their use.\n</p><p>Our website uses cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use.\n</p><p><br></p><p><b>Information we obtain from third parties\n</b></p><p>Although we do not disclose your personal information to any third party (except as set out in this notice), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.\n</p><p><br></p><p><b style=\"font-size: 1.07rem;\">Your duty to inform us of changes&nbsp;</b><br></p><p>It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes.\n</p><p><br></p><p><b>Access to your personal information\n</b></p><p>At any time you may review or update personally identifiable information that we hold about you. To obtain a copy of any information you should contact us to make that request.\n</p><p>After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you.\n</p><p><br></p><p><b>Verification of your information\n</b></p><p>When we receive any request to access, edit or delete personal identifiable information we shall first take reasonable steps to verify your identity before granting you access or otherwise taking any action. This is important to safeguard your information.\n</p><p><br></p><p><b style=\"font-size: 1.07rem;\">How you can complain&nbsp;</b><br></p><p>If you are not happy with our privacy policy or if you have any complaint then you should tell us.\n</p><p>If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration. \n</p><p>If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner's Office (ICO). This can be done at https://ico.org.uk/make-a-complaint/. We would, however, appreciate the opportunity to talk to you about your concern before you approach the ICO.\n</p><p><br></p><p><b>Retention period for personal data\n</b></p><p>Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us:\n</p><p>•\tto provide you with the services you have requested;\n</p><p>•\tto comply with other law, including for the period demanded by our tax authorities;\n</p><p>•\tto support a claim or defence in court.\t\n</p><p><br></p><p><b>Compliance with the law\n</b></p><p>Our privacy policy has been compiled so as to comply with the law of every country or legal jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your jurisdiction, we should like to hear from you.\n</p><p>However, ultimately it is your choice as to whether you wish to use our website.\n</p><p><br></p><p><b>Review of this privacy policy\n</b></p><p>We may update this privacy notice from time to time as necessary. The terms that apply to you are those posted here on our website on the day you use our website. We advise you to print a copy for your records.\n</p><p>If you have any question regarding our privacy policy, please contact us.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-11"
+        },
         {
           "_inherit": "menu",
           "_params": {
@@ -871,10 +884,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -921,278 +934,6 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Living Waters<br>Social Enterprises<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-k"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "24px"
-            },
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2070042-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Our Vision",
-          "text": "<p><b>A hand Up - Not a Handout</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-l"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Kibera is a slum situated to the southwest of Nairobi city centre and is framed by a railroad line and the Ngong River. In an area of about 4 square kilometres there are approximately one million people living, one third of Nairobi’s population and it could even be more; there are no precise figures. People say it is the most densely populated area on earth. People here live in the most basic conditions, in huts made from mud and corrugated iron sheets: open sewers run along the paths, rubbish is everywhere, most of the population are young and many children living here are orphaned. Work is scarce and poorly paid; a few pounds a day is considered a good wage. Kibera is not the only slum in Nairobi, there is probably as many people again in the many other slum settlements around Nairobi.</p>",
-          "text2": "<p>Most people living here are uneducated with little chance of changing their circumstances. Teenage pregnancies are rife and these children grow up in the slum with no prospects, no education and continue this cycle of poverty. But these are a wonderful people, even though they have nothing, they are cheerful, generous and welcoming.\n</p><p>There have been many attempts to bring change to these slums. Millions have been spent on building tower blocks for re-housing, but these just scratch the surface and, like the 60s tower blocks of the UK, they bring complains of a loss of community. Many charities are keen to give handouts and sponsor individuals but these activities just help to build a dependency culture.\n</p><p><br></p>",
-          "text3": "<p>Our vision is to bring transformation to these slum areas of Nairobi and to fight the spirit of poverty and hopelessness that exists there. We will bring hope, restore dignity and purpose to lives that could otherwise be wasted just in pure survival. Is this possible? It will take time undoubtedly, but like the parable of the loaves and fishes we believe that if we bring our talents to bear then God will perform miracles and make this ministry truly amazing.\n</p><p><br></p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-m"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "22px"
-            },
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2080303-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Our Goals",
-          "text": "<p><b>Breaking the dependancy culture</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-n"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><span style=\"font-size: 1.07rem;\">Our first principle is that these people must be responsible for helping themselves. Handouts and aid just perpetuate poverty and generate a dependency culture. We will need support, yes: but as a pump primer, a kick-start, for building profitable businesses. </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">These businesses will then invest their profits in the community to help build other businesses and provide training and schooling; a typical social enterprise model. So, as local people are employed and manage these businesses, they will start to bring change to the community. Their work will not just be about survival or generating profits for some distant shareholders, but about investing in and changing their community.&nbsp;</span><br></p><p><br></p>",
-          "text2": "<p>We must create leaders to run these businesses, people who are confident and educated and who are capable of bringing sustained development and growth. This cannot happen overnight, it will take time, but as the mustard seed grows into the largest tree in the garden, so we will start small and grow: we will take talented local people, train and inspire them, give them a vision to build businesses that will transform these communities. </p><p><br></p><p>Most people starting a business in these areas are happy if it simply supports them, we will challenge this culture as we want local people to be able to run these profit generating businesses. We will develop businesses that service the more affluent population of Nairobi, where prices and profits are higher and cash can be brought into the community.</p>",
-          "text3": "<p>To achieve this transformation it is essential to clean up these areas. Living among the open sewers and rubbish, having to look out where you are walking - the “flying toilets” of Kibera are infamous – make it impossible to have a sense of pride or honour in where you live and cause serious infections and diseases. </p><p><br></p><p>In my last visit to Nairobi, we took a short cut through the slum, and I was struck at how the worst thing about the slum was the smell and mess, rubbish, stinking streams, bags of sh*t etc. I thought how these people had lost any pride in their environment. </p><p><br></p><p>The mess signalled to me of a people who had lost hope, pride and honour. I believe that a clean Kibera would indicate a people who had regained their pride and honour, a people who have hope.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-o"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "22px"
-            },
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2080302-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "The HOW",
-          "text": "<p><b>We need to raise capital to start this work</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-p"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>We are starting a charity in the UK – Living Waters Social Enterprises - to be a fund raising vehicle to apply for grants, loans and gifts. This charity will set up a non-profit business in Kenya to be the local operating company and all surpluses will be directed to social enterprise activities. The UK charity will also need to cover expense for the UK staff.</p><p><br></p><p>\n</p><p>We have trustees, a minimum of three. These trustees will take an active interest in and support the charity, for example to help in fundraising and networking. If you would be interested in becoming a trustee, please contact us.</p><p><br></p><p>We will need to recruit the initial Kenyan staff in order to start the local subsidiary. People who have already been faithfully working with us on our MED pilot will be the initial local company directors; they are already successful business people.\n</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-q"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".lead P": {
-              "font-size": "22px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p9180347-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Living Waters Plans",
-          "text": "<p><b>The aim of Living Waters is to build a new generation of Kenyan workers who will have vision and skills. These are the people who will bring change to the communities, the UK staff will only teach and inspire these leaders.&nbsp;</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-r"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Our initial plan is to start a bakery: a bakery is a profitable business, only flour, yeast and water is needed to produce a premium product, and it is a business that can be easily up-scaled. The initial bakery will be located close to Kibera in an area with high footfall. It will be an ideal location to train and develop staff. This business will be expanded by starting other local bakeries in middle and upper class neighbourhoods with staff trained in the Kibera bakery.&nbsp;</p>",
-          "text2": "There is a large middle-class in Nairobi with the income to buy quality patisserie. Other small businesses, such as tailoring, will follow where suitable opportunities are found. These businesses will be able to provide specialist training to their workforces for technical skills plus inspiration to support the community.",
-          "text3": "<p>When funds allow, it is planned to buy land near to the slum. This is seen as a crucial long term investment as the value of land is always rising. This land will be used for building an adult training facility and school. The purchase of land will provide security and ensure the availability of these facilities for decades to come. The adult training facility will provide technical skills training and academic teaching to support those who did not have childhood schooling.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-s"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "22px"
-            },
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pa021489-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Our Future Hope&nbsp;<br>To clean the slums",
-          "text": "<p><b>Developing a profitable business from rubbish</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-t"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>One of the worst aspects of the slum is the filth and pollution that is everywhere. Our vision is to develop cost positive ways to tackle this pollution so that it can be permanently eradicated. The major source of pollution is human waste, with around a million people and very few facilities. This causes all the waterways to be open sewers generating a pervasive stink everywhere.</p>",
-          "text2": "<p>There are ways to treat this waste to turn it into useful produces, such as charcoal, fertiliser or to extract gas. We will develop business plans to make this into a sustainable, profitable business. The investment will be significant with the building of public facilities, but the payback in health benefits would be huge. We believe that such a scheme, properly planned, would be able to attract the necessary development aid grants.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-u"
         }
       ]
     }

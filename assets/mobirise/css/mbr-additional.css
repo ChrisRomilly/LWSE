@@ -652,11 +652,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-k .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #ext_menu-k .dropdown-item,
 #ext_menu-k .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #ext_menu-k .link:hover,
 #ext_menu-k .dropdown-item:hover,
@@ -694,54 +694,4 @@ h6,
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#msg-box8-l .mbr-section-title,
-#msg-box8-l p {
-  color: #fff;
-}
-#msg-box8-l .lead P {
-  font-size: 24px;
-}
-#msg-box8-l .mbr-section-title {
-  font-size: 60px;
-}
-#msg-box8-n .mbr-section-title,
-#msg-box8-n p {
-  color: #fff;
-}
-#msg-box8-n .lead P {
-  font-size: 22px;
-}
-#msg-box8-n .mbr-section-title {
-  font-size: 60px;
-}
-#msg-box8-p .mbr-section-title,
-#msg-box8-p p {
-  color: #fff;
-}
-#msg-box8-p .lead P {
-  font-size: 22px;
-}
-#msg-box8-p .mbr-section-title {
-  font-size: 60px;
-}
-#msg-box8-r .mbr-section-title,
-#msg-box8-r p {
-  color: #fff;
-}
-#msg-box8-r .mbr-section-title {
-  font-size: 60px;
-}
-#msg-box8-r .lead P {
-  font-size: 22px;
-}
-#msg-box8-t .mbr-section-title,
-#msg-box8-t p {
-  color: #fff;
-}
-#msg-box8-t .lead P {
-  font-size: 22px;
-}
-#msg-box8-t .mbr-section-title {
-  font-size: 60px;
 }
