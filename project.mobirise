@@ -25,8 +25,8 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 38,
-    "versionPublish": "4.9.5",
+    "uniqCompNum": 41,
+    "versionPublish": "4.10.2",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -196,7 +196,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "What we do",
-          "text": "<p><b>Building Independence - Breaking the dependency culture</b></p><p><b>So many people here have literally nothing and are living day by day. We seek to give them a means to help themselves rather than being dependent on handouts.</b></p>",
+          "text": "<p><b>Building Independence - Breaking the dependency culture.&nbsp;<br></b><b>So many people here have literally nothing and are living day by day. We seek to give them a means to help themselves rather than being dependent on handouts.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page1.html#msg-box8-4\" data-toolbar=\"-mbrBtnMove\">&nbsp;See our Vision Statement</a>",
           "_tags": [
             "Theme"
@@ -210,8 +210,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem;\">We are setting up two projects to harness the power of business to bring these people out of poverty. Firstly, a Micro Enterprise Development scheme, where we provide small loans to allow people to set up small businesses and so allow them to support themselves. Money invested in a micro enterprise scheme is very efficiently used, as when a loan is repaid then it can be offered to another business.</span><br></p><p><br></p><p>Secondly, a larger business, directly overseen by our Trustees: a modern social enterprise that cares and educates its staff and uses its profits to support the local economy, paying for teachers, training adults and looking after orphans.</p><p><br></p><p>LWSE needs to raise finance to set up the business and support the micro enterprise scheme. Once the business is operating successfully then it will be local people generating money to help local causes.</p><p><br></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem;\">We will have a not-for-profit company in Nairobi to be the vehicle to manage the business and will work with a Community Organisation in Nairobi for the micro enterprise. The company will have local Kenyan directors as well as UK Directors from LWSE to oversee the business and ensure that it grows swiftly, looks after its staff well and provides support to the community.</span><br></p><p><br></p><p>&nbsp;<span style=\"font-size: 1.07rem;\">The distinction over traditional charity giving is that money invested by LWSE will not be simply spent with a limited short term effect, but will be invested in people and a business that will provide returns many times the size of the original investment over many years: truly, the gift that goes on giving.</span></p>",
+          "text1": "<p><span style=\"font-size: 1.07rem;\">We are setting up two projects to harness the power of business to bring these people out of poverty. Firstly, a business, directly overseen by our Trustees: a modern social enterprise that cares and educates its staff and uses its profits to support the local economy, paying for teachers, training adults and looking after orphans.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Secondly we want to support a Micro Enterprise Development scheme, where we provide small loans to allow people to set up small businesses and so allow them to support themselves. Money invested in a micro enterprise scheme is very efficiently used, as when a loan is repaid then it can be offered to another business.</span><br></p><p><br></p><p>LWSE needs to raise finance to set up the business and support the micro enterprise scheme. Once the business is operating successfully then it will be local people generating money to help local causes.</p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">We will have a not-for-profit company in Nairobi to be the vehicle to manage the business. The company will have local Kenyan directors as well as UK Directors from LWSE to oversee the business and ensure that it grows swiftly, looks after its staff well and provides support to the community.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">The Micro Enterprise scheme will be run by a committee formed from local volunteers who have set up a community organisation to manage the fund and overseen by trustees and volunteers from LWSE and other charities that we work with.</span><br></p><p><br></p><p>&nbsp;M<span style=\"font-size: 1.07rem;\">oney invested by LWSE will not be simply spent with a limited short term effect, but will be invested in people and a business that will provide returns many times the size of the original investment over many years: truly, the gift that goes on giving.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -277,6 +277,63 @@
           "_anchor": "content6-i"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/medcommittee-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Our Micro Enterprise Development Team",
+          "text": "This group has set up a community organisation in Kibera to help to set up small businesses. They will issue loans to enable people to buy stock or equipment and will support these businesses with training and advice. They also hold workshops where the businesses can give support to each other. The businesses will repay their loans and the finance will then be available to another business, thus growing the group and changing more lives. This model means that all donations are very efficiently used to change many lives. &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -286,6 +343,9 @@
             },
             ".mbr-section-title": {
               "font-size": "60px"
+            },
+            ".btn": {
+              "font-size": "13px"
             }
           },
           "_params": {
@@ -295,7 +355,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p2070038-2-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p2070038-3-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -308,8 +368,8 @@
             "overlayOpacity": "0.2"
           },
           "title": "How You can help",
-          "text": "<p><b>We need to raise about £15,000 to finance our bakery project and £1,000 to start our Micro Enterprise project</b></p><p><b>Please click on the links below to donate</b></p><p><b>If you would like to get involved in the project please contact us via the link at the foot of the page</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Link to our Giving Page</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Link to our Giving Page</a>",
+          "text": "<p><b>We need to raise about £15,000 to finance our bakery project and £1,000 for our Micro Enterprise project</b></p><p><b>Please click on the links below to donate</b></p><p><b>If you would like to get involved in the project please contact us via the link at the foot of the page</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.totalgiving.co.uk/appeal/lwse_bakery\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Link to our Bakery Project Donations Page</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.totalgiving.co.uk/appeal/lwse_med\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Link to our MED Donations Page</a>",
           "_tags": [
             "Theme"
           ],
@@ -336,7 +396,7 @@
             "overlayOpacity": 0.5,
             "facebook": true,
             "twitter": true,
-            "google": true,
+            "google": false,
             "vkontakte": false,
             "odnoklassniki": false
           },
