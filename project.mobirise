@@ -27,7 +27,14 @@
     "versionFirst": "4.7.7",
     "uniqCompNum": 41,
     "versionPublish": "4.10.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "http://lwse.org.uk",
+    "sitemapSwitcherAuto": "on",
+    "gdpr": "By continiung you agree to our Terms of Service and Privacy Policy.",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our privacy policy.",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -148,7 +155,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Living Waters Social Enterprises",
-          "text": "<b><br></b><br><b>A new way to encourage, enrich and give hope to the poorest people in Kenya</b><br><b>A Hand up: not a Handout</b>",
+          "text": "<b><br></b><br><b>A new way to encourage, enrich and give hope to the poorest people in Kenya</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -319,8 +326,8 @@
               "size": 0
             }
           },
-          "title": "Our Micro Enterprise Development Team",
-          "text": "This group has set up a community organisation in Kibera to help to set up small businesses. They will issue loans to enable people to buy stock or equipment and will support these businesses with training and advice. They also hold workshops where the businesses can give support to each other. The businesses will repay their loans and the finance will then be available to another business, thus growing the group and changing more lives. This model means that all donations are very efficiently used to change many lives. &nbsp;",
+          "title": "Micro Enterprise Development",
+          "text": "This group has set up a community organisation in Kibera to help to set up small businesses. They will issue loans to enable people to buy stock or equipment and will support these businesses with training and advice. They also hold workshops where the businesses can give support to each other. The businesses will repay their loans and the finance will then be available to another business, thus growing the group and changing more lives. This model means that all donations are very efficiently used to change many lives. <br>We will support them by raising capital and providing training, advice and encouragement.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -368,7 +375,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "How You can help",
-          "text": "<p><b>We need to raise about £15,000 to finance our bakery project and £1,000 for our Micro Enterprise project</b></p><p><b>Please click on the links below to donate</b></p><p><b>If you would like to get involved in the project please contact us via the link at the foot of the page</b></p>",
+          "text": "<p><b>We need to raise about £15,000 to finance our bakery project and £1,000 for the Micro Enterprise project</b></p><p><b>Please click on the links below to donate</b></p><p><b>If you would like to get involved in the project please contact us via the link at the foot of the page</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.totalgiving.co.uk/appeal/lwse_bakery\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Link to our Bakery Project Donations Page</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.totalgiving.co.uk/appeal/lwse_med\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Link to our MED Donations Page</a>",
           "_tags": [
             "Theme"
@@ -436,7 +443,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<strong><a href=\"mailto:livingwatersse@gmail.com\">Contacts</a></strong><br><a href=\"mailto:livingwatersse@gmail.com\">\nEmail: livingwatersse@gmail.com</a><br><a href=\"tel:+447425140424\">\nPhone: +44 7425 140424</a><br><a href=\"page2.html#content1-11\">Privacy Statement</a><a href=\"tel:+447425140424\"><br></a><br>",
+          "text2": "<strong><a href=\"mailto:livingwatersse@gmail.com\">Contacts</a></strong><br><a href=\"mailto:livingwatersse@gmail.com\">\nEmail: livingwatersse@gmail.com</a><br><br><a href=\"page2.html#content1-11\">Privacy Statement</a><a href=\"tel:+447425140424\"><br></a><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
@@ -586,9 +593,9 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Kibera is a slum situated to the southwest of Nairobi city centre and is framed by a railroad line and the Ngong River. In an area of about 4 square kilometres there are approximately one million people living, one third of Nairobi’s population and it could even be more; there are no precise figures. People say it is the most densely populated area on earth. People here live in the most basic conditions, in huts made from mud and corrugated iron sheets: open sewers run along the paths, rubbish is everywhere, most of the population are young and many children living here are orphaned. Work is scarce and poorly paid; a few pounds a day is considered a good wage. Kibera is not the only slum in Nairobi, there is probably as many people again in the many other slum settlements around Nairobi.</p><p><br></p>",
-          "text2": "<p>Most people living here are uneducated with little chance of changing their circumstances. Teenage pregnancies are rife and these children grow up in the slum with no prospects, no education and continue this cycle of poverty. But these are a wonderful people, even though they have nothing, they are cheerful, generous and welcoming.\n</p><p>There have been many attempts to bring change to these slums. Millions have been spent on building tower blocks for re-housing, but these just scratch the surface and, like the 60s tower blocks of the UK, they bring complains of a loss of community. Many charities are keen to give handouts and sponsor individuals but these activities just help to build a dependency culture.</p><p>\n</p><p><br></p>",
-          "text3": "<p>Our vision is to bring transformation to these slum areas of Nairobi and to fight the spirit of poverty and hopelessness that exists there. We will bring hope, restore dignity and purpose to lives that could otherwise be wasted just in pure survival. Is this possible? It will take time undoubtedly, but like the parable of the loaves and fishes we believe that if we bring our talents to bear then God will perform miracles and make this ministry truly amazing.\n</p><p><br></p><p><br></p>",
+          "text1": "<p>Kibera is a slum situated to the southwest of Nairobi city centre and is framed by a railroad line and the Ngong River. In an area of about 4 square kilometres there are approximately one million people living, one third of Nairobi’s population and it could even be more; there are no precise figures. People say it is the most densely populated area on earth. People here live in the most basic conditions, in huts made from mud and corrugated iron sheets: open sewers run along the paths, rubbish is everywhere, most of the population are young and many children living here are orphaned.&nbsp;</p><p><br></p>",
+          "text2": "<p>Work is scarce and poorly paid; a few pounds a day is considered a good wage. Kibera is not the only slum in Nairobi, there is probably as many people again in the many other slum settlements around Nairobi.</p><p>Most people living here are uneducated with little chance of changing their circumstances. Teenage pregnancies are rife and these children grow up in the slum with no prospects, no education and continue this cycle of poverty. But these are a wonderful people, even though they have nothing, they are cheerful, generous and welcoming.\n</p><p><br></p><p>\n</p><p><br></p>",
+          "text3": "<p>There have been many attempts to bring change to these slums. Millions have been spent on building tower blocks for re-housing, but these just scratch the surface and, like the 60s tower blocks of the UK, they bring complains of a loss of community. </p><p>Our vision is to bring transformation to these slum areas of Nairobi and to fight the spirit of poverty and hopelessness that exists there. We will restore dignity and bring hope and purpose to lives that could otherwise be wasted just in pure survival. </p><p>Is this possible? It will take time undoubtedly, it will be hard, but it is most certainly worth trying.</p>",
           "_tags": [
             "Theme"
           ],
@@ -627,7 +634,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Our Goals",
-          "text": "<p><b>Breaking the dependancy culture</b></p><p><b>A hand Up: not a handout</b></p>",
+          "text": "<p><b>Breaking the dependancy culture</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -878,7 +885,7 @@
             }
           },
           "text1": "<br><br>",
-          "text2": "<strong><a href=\"mailto:livingwatersse@gmail.com\">Contacts</a></strong><br><a href=\"mailto:livingwatersse@gmail.com\">\nEmail: livingwatersse@gmail.com</a><br><a href=\"tel:+447425140424\">\nPhone: +44 7425 140424</a><br><a href=\"page2.html#content1-11\">Privacy Statement</a><a href=\"tel:+447425140424\"><br></a><br>",
+          "text2": "<strong><a href=\"mailto:livingwatersse@gmail.com\">Contacts</a></strong><br><a href=\"mailto:livingwatersse@gmail.com\">\nEmail: livingwatersse@gmail.com</a><br><br><a href=\"page2.html#content1-11\">Privacy Statement</a><a href=\"tel:+447425140424\"><br></a><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
